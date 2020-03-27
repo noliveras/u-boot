@@ -5,6 +5,7 @@
  * Configuration settings for the Digi ConnecCore 6UL Starter board.
  *
  * SPDX-License-Identifier:	GPL-2.0+
+ * Hola Mundo!
  */
 #ifndef CCIMX6ULSTARTER_CONFIG_H
 #define CCIMX6ULSTARTER_CONFIG_H
